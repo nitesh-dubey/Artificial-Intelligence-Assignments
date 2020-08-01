@@ -31,4 +31,4 @@ in order to produce offsprings of next generation.<br />
 The ***game_of_sticks.py*** contains the solution to this problem using Minmax with Alpha Beta pruning.
 
 It is a game in which there are 2 opponents. Each opponent pics a maximum of 3 sticks in their turn. The opponent to pick last stick looses the game.<br />
-The user can choose to play with AI or let 2 AIs compete with each other.\n
+The user can choose to play with AI or let 2 AIs compete with each other.<br />
