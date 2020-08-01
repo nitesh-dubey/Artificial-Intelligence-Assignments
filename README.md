@@ -16,7 +16,7 @@ The ***travelling_salesman.cpp*** contains the solution to this problem.
 Astar - A* algorithm is like UCS, which also takes heuristics into account.
 
 1.) The program the number of cities N and distance between each of them as input.<br />
-2.) output is the order in which salesman should visit the cities.<br />
+2.) output is the minimum optimal cost which salesman will incurr in travelling through all cities.<br />
 
 ## Genetic algorithm:
 
