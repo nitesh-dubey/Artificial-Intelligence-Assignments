@@ -1,6 +1,9 @@
 //Enter total number of sticks
-3
+15
 //Bot vs Bot (In this example this is chosen)
 a
 //Bot vs Player
 b
+
+//Which bot do you want to play first
+1
